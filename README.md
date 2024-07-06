@@ -20,7 +20,7 @@ Before you begin, ensure you have met the following requirements:
 ## Installation
 
 1. Clone this repository: git clone https://github.com/RishabhGithub7348/YouTube-Video-Summarizer-and-Quiz-Generator.git
-   cd youtube-summarizer-quiz
+   cd youtube-summarizer-and-quiz-generator
 3. Install the required packages: pip install youtube_transcript_api transformers torch nltk
 
  ## Usage
